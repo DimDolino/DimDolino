@@ -3,7 +3,7 @@
 <h3 align="center">Junior Data Analyst from Russia</h3>
 
 
-[![codewars](https://www.codewars.com/users/DimDolino/badges/small)](https://www.codewars.com/users/DimDolino)   
+[![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino)   
 <!--
 **DimDolino/DimDolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
