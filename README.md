@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm DMITRIY SEMENOV
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Data Analyst from Russia</h3>
+
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/DimDolino)   
 <!--
 **DimDolino/DimDolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
