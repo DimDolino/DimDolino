@@ -3,9 +3,8 @@
 <h3 align="center">Junior Data Analyst from Russia</h3>
 <h3 align="center">
   Погружаюсь в аналитику данных и развиваю свой стэк:
-  	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </h3>
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 [![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino) 
 
 ![](https://komarev.com/ghpvc/?username=DimDolino)
