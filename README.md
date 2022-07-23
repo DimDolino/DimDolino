@@ -4,7 +4,8 @@
 
 <h3>Погружаюсь в аналитику данных и развиваю свои скиллы:</h3>
  
-<h3>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case </h3>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case </h3>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
