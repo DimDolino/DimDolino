@@ -2,16 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Data Analyst from Russia</h3>
 
-<h3>Погружаюсь в аналитику данных и развиваю свои скиллы:</h3>
- 
-<h3>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case </h3>
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<h3>Чем владею:</h3>
+<ul>
+<li><h4>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case</h4>
+<li><h4>Python, в том числе pandas, numpy, matplotlib</h4>
+<li><h4>Система контроля версий GIT</h4>
+<li><h4>Визуализация с помощью Tableu</h4>
+</ul>
+<h3>Что умею:</h3>
+<ul>
+<li><h4>Проведение А/В тестов и bootstrap, регрессионного анализа</h4>
+<li><h4>Формирование дашбордов</h4>
+<li><h4>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate</h4>
 
 [![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino) 
 
