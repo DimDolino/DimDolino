@@ -5,7 +5,7 @@
 <h3>Чем владею:</h3>
 <ul>
 <li><h4>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case</h4>
-<li><h4>Python, в том числе pandas, numpy, matplotlib</h4>
+<li><h4>Python, в том числе pandas, numpy, matplotlib, plotly</h4>
 <li><h4>Система контроля версий GIT</h4>
 <li><h4>Визуализация с помощью Tableau</h4>
 </ul>
