@@ -2,12 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Data Analyst from Russia</h3>
 
-<h3>Чем владею:</h3>
+<h3>Стек:</h3>
 <ul>
 <li><h4>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case</h4>
 <li><h4>Python, в том числе pandas, numpy, matplotlib, plotly</h4>
 <li><h4>Система контроля версий GIT</h4>
-<li><h4>Визуализация с помощью Tableau</h4>
+<li><h4>Визуализация с помощью Tableau, Redash</h4>
+<li><h4>Автоматизация процессов через Airflow</h4>
 </ul>
 <h3>Что умею:</h3>
 <ul>
