@@ -4,17 +4,19 @@
 
 <h3>Стек:</h3>
 <ul>
-<li><h4>Написание сложных SQL запросов с оконными функциями, вложенными запросами, конструкциями case</h4>
+<li><h4>SQL:оконные функции, вложенные запросы, конструкции case</h4>
 <li><h4>Python, в том числе pandas, numpy, matplotlib, plotly</h4>
 <li><h4>Система контроля версий GIT</h4>
 <li><h4>Визуализация с помощью Tableau, Redash</h4>
-<li><h4>Автоматизация процессов через Airflow</h4>
+
 </ul>
 <h3>Что умею:</h3>
 <ul>
 <li><h4>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python</h4>
+<li><h4>Написание ad-hoc запросов</h4>
 <li><h4>Формирование дашбордов</h4>
 <li><h4>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate</h4>
+<li><h4>Автоматизация процессов через Airflow</h4>
 
 [![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino) 
 
