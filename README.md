@@ -7,7 +7,8 @@
 <li><h4>SQL: оконные функции, вложенные запросы, конструкции case</h4>
 <li><h4>Python, в том числе pandas, numpy, matplotlib, plotly</h4>
 <li><h4>Система контроля версий GIT</h4>
-<li><h4>Визуализация с помощью Tableau, Redash</h4>
+<li><h4>Airflow</h4>
+<li><h4>Tableau, Redash</h4>
 
 </ul>
 <h3>Что умею:</h3>
