@@ -15,9 +15,20 @@
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=DimDolino&style=flat-square&color=blue" alt=""/>
 <h1>
-  Junior Data Analyst
+  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
+### :man_technologist: Обо мне:
+  Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием.
+- :telescope: Прошел обучение по направлению "Аналитика данных", также изучал Backend.
+
+- :seedling: Люблю решать задачи на логику на CodeWars, LeetCode.
+
+- :zap: Свободное время провожу с семьей.
+
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/DimDolino)
 </div>
 <h3>Стек:</h3>
 <ul>
