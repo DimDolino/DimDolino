@@ -8,9 +8,17 @@
   <a href="https://t.me/DimDolino">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+  <a href="https://vk.com/judge_cat">
+  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
-
-<h3 align="center">Junior Data Analyst from Russia</h3>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=DimDolino&style=flat-square&color=blue" alt=""/>
+<h1>
+  Junior Data Analyst
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 <h3>Стек:</h3>
 <ul>
 <li><h4>SQL: оконные функции, вложенные запросы, конструкции case</h4>
@@ -30,7 +38,7 @@
 
 [![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino) 
 
-![](https://komarev.com/ghpvc/?username=DimDolino)
+
 <!--
 **DimDolino/DimDolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
