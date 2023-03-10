@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm DMITRIY SEMENOV
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Data Analyst from Russia</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100"/>
+</div>
 
 <h3>Стек:</h3>
 <ul>
