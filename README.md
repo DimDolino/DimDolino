@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
@@ -72,7 +73,10 @@
 
 ### :book: Мои проекты:
 За время обучения на курсе "Аналитик данных" и проектную деятельность мной выполнено около 25 проектов. Здесь собрал наиболее интересные:
-
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[Поиск мошенников через аналитику данных](https://github.com/DimDolino/Find_the_Thief)|Предобработка данных, создание скрипта поиска "связанных" данных, вывод клиентов, выполнивших ключевое действие.|**Pandas** **Numpy**|
+|[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
 
 ### :fire: My Stats :
   
