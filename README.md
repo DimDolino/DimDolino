@@ -45,26 +45,30 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matllab" width="40" height="40"/>&nbsp; 
 </div>
 
-</div>
-<h3>Стек:</h3>
+### :computer: Стек :
 <ul>
 <li>SQL: оконные функции, вложенные запросы, конструкции case
 <li>Python, в том числе pandas, numpy, matplotlib, plotly
 <li>Система контроля версий GIT
 <li>Airflow
 <li>Tableau, Redash
-
 </ul>
-<h3>Что умею:</h3>
+
+### :metal: Что умею :
 <ul>
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
 <li>Написание ad-hoc запросов
 <li>Формирование дашбордов
 <li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
 <li>Автоматизация процессов через Airflow
+</ul>
+
+### :book: Мои проекты :
+Во время обучения на курсе, а также практической деятельности я выполнил порядка 25 проектов. Ниже отобрал основные из них.
+  
 
 ### :fire: My Stats :
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimDolino)](https://github.com/anuraghazra/github-readme-stats)
   
 [![codewars](https://www.codewars.com/users/DimDolino/badges/large)](https://www.codewars.com/users/DimDolino)
