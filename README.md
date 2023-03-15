@@ -22,7 +22,7 @@
 
 ### :man_technologist: Обо мне:
   Я Аналитик Данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с техническим образованием.
-- :telescope: Прошел обучение по направлению "Аналитика данных", также изучал Backend.
+- :telescope: За числами нахожу данные, которые помогают в развитии продукта.
 
 - :seedling: Люблю решать задачи на логику на CodeWars, LeetCode.
 
