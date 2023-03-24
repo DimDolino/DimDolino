@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width='200'/>
+  <img src="https://media.giphy.com/media/40cxBsgqqwb65M5ivp/giphy.gif" width='500'/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -13,11 +13,13 @@
   </a>
 </div>
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=DimDolino&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DimDolino&style=flat-square&color=blue" alt=""/>
 <h1>
-  Welcome
+ Hello, I'm Dmitriy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=250&height=50&lines=Data+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
 ### :man_technologist: Обо мне:
