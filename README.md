@@ -72,6 +72,7 @@
 |[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
 |[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
 |[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/E-learning_project)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
+|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
 
 ### :fire: My Stats :
   
